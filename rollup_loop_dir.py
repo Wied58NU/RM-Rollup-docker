@@ -1,4 +1,5 @@
-#!/anaconda3/bin/python
+#!//usr/bin/python3
+
 import string
 import matplotlib.pyplot as plt
 
